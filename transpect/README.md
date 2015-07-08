@@ -1,6 +1,6 @@
 # XProc-based document transformation / checking
 
- * Converting from IDML to HTML and back;
+ * Converts HTML to EPUB, IDML to HTML and to EPUB and back… more coming soon;
  * applying Schematron checks to the input, to intermediate formats, and to the output;
  * rendering the checking reports as HTML
  * generating other formats, such as EPUB
